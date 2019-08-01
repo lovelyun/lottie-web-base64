@@ -1,0 +1,15 @@
+{
+  "name": "lottie-web-base64",
+  "version": "1.0.0",
+  "description": "Deal lottie-web images with Base64,package data.json and images in index.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "lovelyun",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^5.0.0"
+  }
+}
